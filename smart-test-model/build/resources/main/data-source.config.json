@@ -1,0 +1,11 @@
+{
+  "dataSourceType":"FILE",
+  "dataSources": [
+    {
+      "type":"FILE",
+      "properties": {
+        "location": "/scratch/idcs/app/data/smart-test/"
+      }
+    }
+  ]
+}

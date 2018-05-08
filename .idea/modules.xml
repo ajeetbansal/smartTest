@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smart-test.iml" filepath="$PROJECT_DIR$/smart-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-cli/smart-test-cli.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-cli/smart-test-cli.iml" group="smart-test-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-cli/smart-test-cli_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-cli/smart-test-cli_main.iml" group="smart-test-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-cli/smart-test-cli_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-cli/smart-test-cli_test.iml" group="smart-test-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-model/smart-test-model.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-model/smart-test-model.iml" group="smart-test-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-model/smart-test-model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-model/smart-test-model_main.iml" group="smart-test-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-model/smart-test-model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-model/smart-test-model_test.iml" group="smart-test-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-web/smart-test-web.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-web/smart-test-web.iml" group="smart-test-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-web/smart-test-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-web/smart-test-web_main.iml" group="smart-test-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test-web/smart-test-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test-web/smart-test-web_test.iml" group="smart-test-web" />
+    </modules>
+  </component>
+</project>

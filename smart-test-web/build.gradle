@@ -1,0 +1,13 @@
+
+apply plugin: 'application'
+mainClassName = "oracle.idaas.smartTest.web.Main"
+
+dependencies {
+    compile (
+	project(':smart-test-model'),
+            [group: 'org.glassfish.jersey.containers', name: 'jersey-container-grizzly2-http', version:'2.26'],
+            [group: 'org.glassfish.jersey.inject', name: 'jersey-hk2', version:'2.26'],
+			[group: 'com.fasterxml.jackson.jaxrs', name: 'jackson-jaxrs-json-provider', version: '2.4.1']
+    )
+
+}

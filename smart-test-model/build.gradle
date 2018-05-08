@@ -1,0 +1,12 @@
+
+dependencies {
+    compile (
+            [group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.4.1'],
+            [group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.4.1'],
+            [group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.4.1'],
+            'org.glassfish.jersey.core:jersey-client:2.26',
+            'org.glassfish.jersey.inject:jersey-hk2:2.26'
+
+    )
+
+}

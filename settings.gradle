@@ -1,0 +1,3 @@
+include 'smart-test-model'
+include 'smart-test-cli'
+include 'smart-test-web'

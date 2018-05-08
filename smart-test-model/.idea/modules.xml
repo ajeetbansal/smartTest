@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smart-test.iml" filepath="$PROJECT_DIR$/smart-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test_main.iml" group="smart-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-test_test.iml" group="smart-test" />
+    </modules>
+  </component>
+</project>

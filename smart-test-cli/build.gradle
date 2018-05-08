@@ -1,0 +1,11 @@
+
+apply plugin: 'application'
+mainClassName = "oracle.idaas.smartTest.analyze.TestDependencyAnalyzer"
+
+dependencies {
+    compile (
+	    project(':smart-test-model'),
+            'commons-cli:commons-cli:1.4'
+    )
+
+}

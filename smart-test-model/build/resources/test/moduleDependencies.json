@@ -1,0 +1,10 @@
+{
+  "modules":[
+    {"name": "socialidp-common",
+      "depModules":[
+        "socialidp",
+        "oauth2-srv"
+      ]
+    }
+  ]
+}

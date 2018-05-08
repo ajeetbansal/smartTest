@@ -1,0 +1,19 @@
+{
+  "dataSourceType":"FILE",
+  "dataSources": [
+    {
+      "type":"FILE",
+      "properties": {
+        "location": "/tmp/"
+      }
+    },
+    {
+      "type":"COUCH_DB",
+      "properties": {
+        "location": "http://den01wid.us.oracle.com:5984/smart-test/",
+        "status": "enabled"
+      }
+    }
+
+  ]
+}

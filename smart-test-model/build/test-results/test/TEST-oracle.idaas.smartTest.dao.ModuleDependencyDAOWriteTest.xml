@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oracle.idaas.smartTest.dao.ModuleDependencyDAOWriteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-25T23:33:25" hostname="den01wid.us.oracle.com" time="0.365">
+  <properties/>
+  <testcase name="ModuleDependenciesCRUD" classname="oracle.idaas.smartTest.dao.ModuleDependencyDAOWriteTest" time="0.365"/>
+  <system-out><![CDATA[version = d886c035-9c05-43db-8236-d11483f1af48
+moduleDependencies = [oauth2-srv, socialidp]
+]]></system-out>
+  <system-err><![CDATA[Apr 25, 2018 4:33:25 PM oracle.idaas.smartTest.config.dao.DataSourceConfigDAO loadFromConfigFile
+INFO: System property data-source.config has been specified. Hence using /scratch/ajbansal/idcs/code/idaas/smart-test/smart-test-model/build/resources/test/data-source.config.test.json for data source config
+]]></system-err>
+</testsuite>
